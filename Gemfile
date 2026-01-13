@@ -2,5 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem "rubocop", require: false
 gem 'pry', require: false
+gem 'rubocop', require: false
+
+gem 'rspec', '~> 3.13', '>= 3.13.2'
